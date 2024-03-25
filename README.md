@@ -9,6 +9,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halil-yesilyurt&label=Profile%20views&color=0e75b6&style=flat" alt="halil-yesilyurt" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halil-yesilyurt&show_icons=true&locale=en" alt="halil-yesilyurt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halil-yesilyurt&" alt="halil-yesilyurt" /></p>
-
