@@ -1,7 +1,5 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Optimistic+Display&size=24&pause=1000&vCenter=true&width=585&lines=Hi%2C+I'm+Halil.+Welcome+to+my+Github+profile!" alt="Typing SVG" />
-</a>
+<h1 align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Optimistic+Display&weight=430&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=410&height=80&lines=Hi%2C+I'm+Halil%F0%9F%91%8B;Welcome+to+my+Github+profile!" alt="Typing SVG" />
 </h1>
 
 ## Languages & Tools
