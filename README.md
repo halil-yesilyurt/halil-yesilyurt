@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Optimistic+Display&weight=430&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=410&height=80&lines=Hi%2C+I'm+Halil%F0%9F%91%8B;Welcome+to+my+Github+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Optimistic+Display&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=350&height=70&lines=Hi%2C+I'm+Halil%F0%9F%91%8B;Welcome+to+my+Github+profile!" alt="Typing SVG" />
 </h1>
 
 ## Languages & Tools
