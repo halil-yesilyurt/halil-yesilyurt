@@ -1,8 +1,18 @@
-<h1 align="center">  
-<img src="https://readme-typing-svg.demolab.com?font=Optimistic+Display&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=350&height=70&lines=Hi%2C+I'm+Halil%F0%9F%91%8B;Welcome+to+my+Github+profile!" alt="Typing SVG" />
-</h1>
+## Hey, I'm Halil 👋
 
-## Languages & Tools
+💻 I'm a frontend developer who enjoys solving product challenges with technical solutions. A team player who thrives on continuous learning and loves sharing knowledge with others.
+
+👯 I'm open to collaborating on open-source projects.
+
+💡 Feel free to ask me about React, TypeScript, and JavaScript.
+
+📧 Reach me at haliilyesilyurt@gmail.com.
+
+<img src="https://komarev.com/ghpvc/?username=halil-yesilyurt&label=visitors&color=0e75b6&style=flat" alt="halil-yesilyurt" />
+
+<br />
+
+## 🧰 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -14,10 +24,15 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-## Stats
+<br />
 
-![](https://github-readme-stats.vercel.app/api?username=halil-yesilyurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## :trophy: My Github Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=halil-yesilyurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src="https://komarev.com/ghpvc/?username=halil-yesilyurt&label=Profile%20views&color=0e75b6&style=flat" alt="halil-yesilyurt" />
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=halil-yesilyurt&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=halil-yesilyurt&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=halil-yesilyurt&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halil-yesilyurt&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</div>
