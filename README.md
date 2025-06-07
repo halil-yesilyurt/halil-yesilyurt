@@ -4,9 +4,7 @@
 
 👯 I'm open to collaborating on open-source projects.
 
-💡 Feel free to ask me about React, TypeScript, and JavaScript.
-
-📧 Reach me at haliilyesilyurt@gmail.com.
+📧 Reach me at hi@halilyesilyurt.com.
 
 <img src="https://komarev.com/ghpvc/?username=halil-yesilyurt&label=visitors&color=0e75b6&style=flat" alt="halil-yesilyurt" />
 
