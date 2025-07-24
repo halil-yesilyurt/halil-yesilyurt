@@ -24,6 +24,10 @@
 
 <br />
 
+## 📝 Latest Blog Posts
+<!--BLOG-START-->
+<!--BLOG-END-->
+
 ## :trophy: My Github Stats:
 
 <div>
