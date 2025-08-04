@@ -33,11 +33,11 @@
 
 ## 📝 Latest Blog Posts
 <!--BLOG-START-->
+- [Beyond Compliance: Creating Accessible and Beautiful Websites](https://halilyesilyurt.com/blog/creating-accessible-and-beautiful-websites)
 - [What is the React Compiler? A Guide for 2025](https://halilyesilyurt.com/blog/what-is-react-compiler-explained)
 - [JavaScript Signals vs. Traditional Reactivity: A Deep Dive](https://halilyesilyurt.com/blog/javascript-signals-vs-reactivity-state-management)
 - [From Bytes to Pixels: A Guide to Optimizing the Critical Rendering Path](https://halilyesilyurt.com/blog/optimizing-the-critical-rendering-path)
 - [Under the Hood: Understanding Reacts Rendering Process and Fiber Architecture](https://halilyesilyurt.com/blog/understanding-react-rendering-process-fiber)
-- [A Developer’s Guide to JavaScript Memory Management and Garbage Collection](https://halilyesilyurt.com/blog/javascript-memory-management-guide)
 <!--BLOG-END-->
 
 <br />
