@@ -33,11 +33,11 @@
 
 ## 📝 Latest Blog Posts
 <!--BLOG-START-->
+- [Google's Web Vitals 3.0: A Guide to the New Metrics](https://halilyesilyurt.com/blog/google-web-vitals-3-explained)
 - [Why Use Vite? Understanding The Hype in 2025](https://halilyesilyurt.com/blog/why-use-vite-for-web-development)
 - [Beyond Compliance: Creating Accessible and Beautiful Websites](https://halilyesilyurt.com/blog/creating-accessible-and-beautiful-websites)
 - [What is the React Compiler? A Guide for 2025](https://halilyesilyurt.com/blog/what-is-react-compiler-explained)
 - [JavaScript Signals vs. Traditional Reactivity: A Deep Dive](https://halilyesilyurt.com/blog/javascript-signals-vs-reactivity-state-management)
-- [From Bytes to Pixels: A Guide to Optimizing the Critical Rendering Path](https://halilyesilyurt.com/blog/optimizing-the-critical-rendering-path)
 <!--BLOG-END-->
 
 <br />
