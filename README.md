@@ -33,11 +33,11 @@
 
 ## 📝 Latest Blog Posts
 <!--BLOG-START-->
+- [How the JavaScript Engine Works: JIT, ASTs, and Optimizations](https://halilyesilyurt.com/blog/how-the-javascript-engine-works-jit-ast)
 - [The Frontend Engineer in 2025: Tech Stack & Mindset](https://halilyesilyurt.com/blog/frontend-developer-stack-mindset-2025)
 - [Using AI in Your Frontend Development Workflow](https://halilyesilyurt.com/blog/using-ai-for-frontend-development-workflow)
 - [Google's Web Vitals 3.0: A Guide to the New Metrics](https://halilyesilyurt.com/blog/google-web-vitals-3-explained)
 - [Why Use Vite? Understanding The Hype in 2025](https://halilyesilyurt.com/blog/why-use-vite-for-web-development)
-- [Beyond Compliance: Creating Accessible and Beautiful Websites](https://halilyesilyurt.com/blog/creating-accessible-and-beautiful-websites)
 <!--BLOG-END-->
 
 <br />
