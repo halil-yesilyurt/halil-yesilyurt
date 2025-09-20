@@ -33,11 +33,11 @@
 
 ## 📝 Latest Blog Posts
 <!--BLOG-START-->
+- [Why Browsers Throttle JavaScript Timers Explained](https://halilyesilyurt.com/blog/why-browsers-throttle-javascript-timers)
 - [Advanced Framer Motion Animation Techniques](https://halilyesilyurt.com/blog/advanced-framer-motion-animation-techniques)
 - [A Deep Dive into Next.js 15: What's New for Developers](https://halilyesilyurt.com/blog/whats-new-in-nextjs-15-deep-dive)
 - [How the JavaScript Engine Works: JIT, ASTs, and Optimizations](https://halilyesilyurt.com/blog/how-the-javascript-engine-works-jit-ast)
 - [The Frontend Engineer in 2025: Tech Stack & Mindset](https://halilyesilyurt.com/blog/frontend-developer-stack-mindset-2025)
-- [Using AI in Your Frontend Development Workflow](https://halilyesilyurt.com/blog/using-ai-for-frontend-development-workflow)
 <!--BLOG-END-->
 
 <br />
