@@ -33,11 +33,11 @@
 
 ## 📝 Latest Blog Posts
 <!--BLOG-START-->
+- [A Guide to React Server Actions](https://halilyesilyurt.com/blog/how-to-use-react-server-actions)
 - [Edge vs. Client-Side Rendering: A 2025 Guide](https://halilyesilyurt.com/blog/edge-rendering-vs-client-side-rendering-guide)
 - [How JavaScript Garbage Collection Works: A Deep Dive](https://halilyesilyurt.com/blog/how-javascript-garbage-collection-works)
 - [Smarter UI Testing: Cypress, AI, and Visual Regression](https://halilyesilyurt.com/blog/integrating-ai-into-cypress-testing-workflow)
 - [5 Common React and Next.js Mistakes to Avoid](https://halilyesilyurt.com/blog/common-react-nextjs-mistakes-to-avoid)
-- [Why Browsers Throttle JavaScript Timers Explained](https://halilyesilyurt.com/blog/why-browsers-throttle-javascript-timers)
 <!--BLOG-END-->
 
 <br />
