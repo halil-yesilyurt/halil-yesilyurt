@@ -33,22 +33,9 @@
 
 ## 📝 Latest Blog Posts
 <!--BLOG-START-->
-- [A Guide to React Server Actions](https://halilyesilyurt.com/blog/how-to-use-react-server-actions)
-- [Edge vs. Client-Side Rendering: A 2025 Guide](https://halilyesilyurt.com/blog/edge-rendering-vs-client-side-rendering-guide)
-- [How JavaScript Garbage Collection Works: A Deep Dive](https://halilyesilyurt.com/blog/how-javascript-garbage-collection-works)
-- [Smarter UI Testing: Cypress, AI, and Visual Regression](https://halilyesilyurt.com/blog/integrating-ai-into-cypress-testing-workflow)
-- [5 Common React and Next.js Mistakes to Avoid](https://halilyesilyurt.com/blog/common-react-nextjs-mistakes-to-avoid)
+- [Mastering CSS Grid: Build Masonry and Bento Layouts Without Libraries](https://halilyesilyurt.com/blog/mastering-css-grid-real-world-layouts)
+- [Gutenberg Block Development: Create Custom Blocks Without Plugins](https://halilyesilyurt.com/blog/gutenberg-block-development-guide-from-scratch)
+- [Mastering Next.js Middleware: Authentication and Redirects at the Edge](https://halilyesilyurt.com/blog/nextjs-middleware-authentication-redirects-guide)
+- [The "Full Stack" Frontend Dev: How Much Backend Knowledge Do You Need in 2026?](https://halilyesilyurt.com/blog/full-stack-frontend-backend-knowledge-2026)
+- [CSS Container Queries Guide: Breaking Free from the Viewport](https://halilyesilyurt.com/blog/css-container-queries-guide)
 <!--BLOG-END-->
-
-<br />
-
-## :trophy: My Github Stats:
-
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=halil-yesilyurt&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=halil-yesilyurt&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=halil-yesilyurt&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halil-yesilyurt&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" />
-  </a>
-</div>
